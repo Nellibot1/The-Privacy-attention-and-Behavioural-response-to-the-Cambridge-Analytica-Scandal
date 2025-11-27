@@ -1,20 +1,37 @@
-# FCSS Final Project - Group 3
+# FCSS Final Project - Group 3 (Analysis of the Privacy Paradox (2018–2024))
 
-## Topic: Analysis of the Privacy Paradox (2018–2024)
+Group members:
+
+- E
+- K
+- H
+- H
+- Kevin Paul
+
+## Project Phases
 
 **1. Data Collection & Preparation**
-* **Source:** Google Trends (via Python/pytrends). Optionally: Reddit
-* **Timeframe:** 2018–2024.
-* **Target Region:** DACH region (Germany, Austria, Switzerland) or Worldwide.
-* **Keywords:**
+
+- **Source:** Google Trends (via Python/pytrends). Optionally: Reddit
+- **Timeframe:** 2018–2024.
+- **Target Region:** DACH region (Germany, Austria, Switzerland) or Worldwide.
+- **Keywords:**
     * *Action-oriented:* "delete Facebook", "VPN", "GDPR", "encrypt".
     * *Product-oriented (Download Proxy):* "Signal", "Threema", "Telegram", "DuckDuckGo".
     * *Control Group:* "WhatsApp Web", "Instagram login".
 
+> The category of keywords is preliminary. It may change according to our research.
+
 **2. Event Categorization (The Independent Variables)**
+
+There are in particular two situations that raises privacy concerns within the society:
+
 * **Corporate Decisions:** Policy changes (e.g., WhatsApp Terms of Service 2021), removal of features.
 * **Security Incidents:** Data breaches, leaks, scandals (e.g., Cambridge Analytica, Pegasus, Facebook leaks).
-* **Task:** Create a precise timeline table containing the event date, first media coverage date, and perceived severity level.
+
+> This is preliminary. There are possibly more, but we need a paper or two to substantiate this point.
+
+**Task:** Create a precise timeline table containing the event date, first media coverage date, and perceived severity level.
 
 **3. Analysis Methodology**
 * **Visual Analysis:** Overlay the event timeline on the search volume charts.
@@ -23,16 +40,79 @@
 
 ---
 
-## Timeline
+## Timeline, Deliverables and Deadlines
+
+Per Deliverable, we define two deadlines: a **Check-In** for reporting on the progress, and a **Hand-In**, where the deliverable is on the GitLab, if applicable.
+
+0. Project Inception
+    - Setting up the GitLab repository
+    - Define the project scope
+    - **Deadline**: 30.11.2025, 17:00
+    - *Deadline 2* (if changes are necessary): 02.12.2025, 13:00
+1. Data Retrieval
+    - Finding Data (Google Trends) and uploading them to GitLab
+    - Finding keywords related to security incidents and corporate changes
+    - **Check-In**: 02.12.2025, 13:00 (or later, depending on the Project Inception)
+    - **Deadline**: 07.12.2025, 23:59
+2. Implementation
+    - Performing analysis depending on the keywords and the security incidents
+    - Finding correlations
+    - Peak-to-Baseline Ratio & Decay rate
+    - Performing a visual analysis
+    - ...
+    - **Check-In 1**: 09.12.2025, 13:00
+    - **Check-In 2**: 16.12.2025, 13:00
+    - **Deadline**: 21.12.2025, 23:59
+3. Christmas Break buffer
+4. Poster Design
+    - **Check-In**: 06.01.2026, 13:00
+    - **Deadline**: 11.01.2026, 23:59
+5. **PRESENTATION Q&A**: ??.01.2026
+6. **POSTER PRESENTATION**: 27.01.2026
+
+Whoever misses a deadline (Check-In or Deadline) thrice and without notice, will be reported to the Lecturers team.
+
+---
+
+## GitLab Instructions
+
+A little Beginner's guide
+
+### How to get this repository on your computer
+
+Use a client, like GitKraken. You will get it for free through the GitHub Student Developer Pack.
+
+OR do the way through a few commands.
+
+- Install Git
+- Set your name and email for commits:
+    - `git config --global user.name "FirstName LastName"`
+    - `git config --global user.email "your.name@student.tugraz.at"`
+- After installation: go to a directory and clone the repository.
+    - Beginners (or the HTTPS way): `git clone https://gitlab.tugraz.at/CF2A2BC8BA507771/fcss2025-fpg3.git`. You will get a window to log in.
+    - Pros (or the SSH way): `git clone git@gitlab.tugraz.at:CF2A2BC8BA507771/fcss2025-fpg3.git`
+- Work. You can easily use VS Code to work on the project.
+
+### How to track changes (Commit)
+
+In a group project, it is mandatory to commit and push as much as possible.
+
+- If you performed changes on core files: track them in VS Code.
+- Stage the files you changed by pressing on the Plus (+) sign.
+- Type in a meaningful commit message describing what you have done.
+- Commit changes
+- Push the Changes.
+
+![VSCode VCS](image.png)
+
+### How to push updates?
+
+- Before that: get the latest updates: `git pull`. 
+    - In the case of merge conflicts: Try to resolve it.
+    - If you are unsure: Talk to Janniella or Kevin
 
 
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
+### Add your files
 
 - [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
 - [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
@@ -43,75 +123,3 @@ git remote add origin https://gitlab.tugraz.at/CF2A2BC8BA507771/fcss2025-fpg3.gi
 git branch -M main
 git push -uf origin main
 ```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.tugraz.at/CF2A2BC8BA507771/fcss2025-fpg3/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
