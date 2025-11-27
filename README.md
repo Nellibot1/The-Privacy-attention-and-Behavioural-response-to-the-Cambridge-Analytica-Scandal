@@ -1,5 +1,29 @@
 # FCSS Final Project - Group 3
 
+## Topic: Analysis of the Privacy Paradox (2018–2024)
+
+**1. Data Collection & Preparation**
+* **Source:** Google Trends (via Python/pytrends). Optionally: Reddit
+* **Timeframe:** 2018–2024.
+* **Target Region:** DACH region (Germany, Austria, Switzerland) or Worldwide.
+* **Keywords:**
+    * *Action-oriented:* "delete Facebook", "VPN", "GDPR", "encrypt".
+    * *Product-oriented (Download Proxy):* "Signal", "Threema", "Telegram", "DuckDuckGo".
+    * *Control Group:* "WhatsApp Web", "Instagram login".
+
+**2. Event Categorization (The Independent Variables)**
+* **Corporate Decisions:** Policy changes (e.g., WhatsApp Terms of Service 2021), removal of features.
+* **Security Incidents:** Data breaches, leaks, scandals (e.g., Cambridge Analytica, Pegasus, Facebook leaks).
+* **Task:** Create a precise timeline table containing the event date, first media coverage date, and perceived severity level.
+
+**3. Analysis Methodology**
+* **Visual Analysis:** Overlay the event timeline on the search volume charts.
+* **Decay Rate Calculation:** Measure how many days it takes for search volume to return to baseline after a peak.
+* **Substitution Effect:** Analyze if a rise in privacy app searches correlates with a decline or stagnation in mainstream app searches.
+
+---
+
+## Timeline
 
 
 ## Getting started
