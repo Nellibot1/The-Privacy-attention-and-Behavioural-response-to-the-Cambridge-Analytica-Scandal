@@ -14,7 +14,7 @@ Group members:
 
 - **Source:** Google Trends (via Python/pytrends). Optionally: Reddit
 - **Timeframe:** 2018–2024.
-- **Target Region:** DACH region (Germany, Austria, Switzerland) or Worldwide.
+- **Target Region:** Worldwide.
 - **Keywords:**
     * *Action-oriented:* "delete Facebook", "VPN", "GDPR", "encrypt".
     * *Product-oriented (Download Proxy):* "Signal", "Threema", "Telegram", "DuckDuckGo".
@@ -26,7 +26,7 @@ Group members:
 
 There are in particular two situations that raises privacy concerns within the society:
 
-* **Corporate Decisions:** Policy changes (e.g., WhatsApp Terms of Service 2021), removal of features.
+
 * **Security Incidents:** Data breaches, leaks, scandals (e.g., Cambridge Analytica, Pegasus, Facebook leaks).
 
 > This is preliminary. There are possibly more, but we need a paper or two to substantiate this point.
@@ -51,7 +51,7 @@ Per Deliverable, we define two deadlines: a **Check-In** for reporting on the pr
     - *Deadline 2* (if changes are necessary): 02.12.2025, 13:00
 1. Data Retrieval
     - Finding Data (Google Trends) and uploading them to GitLab
-    - Finding keywords related to security incidents and corporate changes
+    - Finding a security incident and keywords (5 in total each one)
     - **Check-In**: 02.12.2025, 13:00 (or later, depending on the Project Inception)
     - **Deadline**: 07.12.2025, 23:59
 2. Implementation
@@ -62,7 +62,7 @@ Per Deliverable, we define two deadlines: a **Check-In** for reporting on the pr
     - ...
     - **Check-In 1**: 09.12.2025, 13:00
     - **Check-In 2**: 16.12.2025, 13:00
-    - **Deadline**: 21.12.2025, 23:59
+    - **Deadline**: 03.01.2026, 23:59
 3. Christmas Break buffer
 4. Poster Design
     - **Check-In**: 06.01.2026, 13:00
