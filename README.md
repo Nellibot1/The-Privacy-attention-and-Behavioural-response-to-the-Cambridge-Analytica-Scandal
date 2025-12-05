@@ -50,8 +50,9 @@ Per Deliverable, we define two deadlines: a **Check-In** for reporting on the pr
     - **Deadline**: 30.11.2025, 17:00
     - *Deadline 2* (if changes are necessary): 02.12.2025, 13:00
 1. Data Retrieval
-    - Finding Data (Google Trends) and uploading them to GitLab
     - Finding a security incident and keywords (5 in total each one)
+    - Finding Data (Google Trends) and uploading them to GitLab
+    - Find literature about works that have analyzed Google Trends as well and what they have done so far (What keywords, when an increase of interest is considered significant, ...)
     - **Check-In**: 02.12.2025, 13:00 (or later, depending on the Project Inception)
     - **Deadline**: 07.12.2025, 23:59
 2. Implementation
