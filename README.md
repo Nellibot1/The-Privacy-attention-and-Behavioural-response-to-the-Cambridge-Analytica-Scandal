@@ -3,7 +3,7 @@
 Group members:
 
 - E
-- K
+- Valentin Kaltenegger
 - H
 - H
 - Kevin Paul
