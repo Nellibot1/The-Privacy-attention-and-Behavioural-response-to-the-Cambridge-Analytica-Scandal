@@ -2,10 +2,8 @@
 
 Group members:
 
-- E
 - Valentin Kaltenegger
-- H
-- H
+- Janniella Heimig
 - Kevin Paul
 
 ## Project Phases
