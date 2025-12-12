@@ -5,6 +5,7 @@ Group members:
 - Janniella Heimig
 - Valentin Kaltenegger
 - Kevin Paul
+- Antonia Windisch
 
 ## Project Phases
 
