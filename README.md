@@ -73,38 +73,6 @@ Per Deliverable, we define two deadlines: a **Check-In** for reporting on the pr
 
 Whoever misses a deadline (Check-In or Deadline) thrice and without notice, will be reported to the Lecturers team.
 
----
-
-## GitLab Instructions
-
-A little Beginner's guide
-
-### How to get this repository on your computer
-
-Use a client, like GitKraken. You will get it for free through the GitHub Student Developer Pack.
-
-OR do the way through a few commands.
-
-- Install Git
-- Set your name and email for commits:
-    - `git config --global user.name "FirstName LastName"`
-    - `git config --global user.email "your.name@student.tugraz.at"`
-- After installation: go to a directory and clone the repository.
-    - Beginners (or the HTTPS way): `git clone https://gitlab.tugraz.at/CF2A2BC8BA507771/fcss2025-fpg3.git`. You will get a window to log in.
-    - Pros (or the SSH way): `git clone git@gitlab.tugraz.at:CF2A2BC8BA507771/fcss2025-fpg3.git`
-- Work. You can easily use VS Code to work on the project.
-
-### How to track changes (Commit)
-
-In a group project, it is mandatory to commit and push as much as possible.
-
-- If you performed changes on core files: track them in VS Code.
-- Stage the files you changed by pressing on the Plus (+) sign.
-- Type in a meaningful commit message describing what you have done.
-- Commit changes
-- Push the Changes.
-
-![VSCode VCS](image.png)
 
 
 
