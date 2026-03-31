@@ -20,8 +20,8 @@ mean)
 
 ## Group Members
 
-Janniella Heimig
-Felix Kaltenegger
+Janniella Heimig,
+Felix Kaltenegger,
 Antonia Windisch
 
 ## Project Phases
