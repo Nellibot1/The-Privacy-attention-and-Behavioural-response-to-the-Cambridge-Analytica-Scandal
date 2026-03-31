@@ -1,12 +1,23 @@
 <<<<<<< HEAD
-# FCSS Final Project - Group 3 (Analysis of the Privacy Paradox (2018–2024))
+# Privacy attention and Behavioural response to the Cambridge Analytica Scandal (Issue attention cycles and privacy related search dynamics)
 
-Group members:
+##Background
+Major scandals can trigger sudden public
+concern, the issue-attention cycle predicts
+declining public concern after initial interest.
+But less is known about the duration and nature
+of attention, especially in the context of privacyrelated
+scandals.
+Online search behavior provides a real-time
+proxy for public interest and behavioral intent.
+The Cambridge Analytica scandal was a pivotal
+event that raised public awareness of data
+privacy causing different attitudes towards
+privacy rights.
 
-- Janniella Heimig
-- Valentin Kaltenegger
-- Kevin Paul
-- Antonia Windisch
+##Research Question :
+How did public privacy concern evolve after the
+Cambridge Analytica scandal?
 
 ## Project Phases
 
