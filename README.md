@@ -24,29 +24,6 @@ Janniella Heimig
 Felix Kaltenegger
 Antonia Windisch
 
-=======
-<<<<<<< HEAD
-# Privacy attention and Behavioural response to the Cambridge Analytica Scandal (Issue attention cycles and privacy related search dynamics)
-
-##Background
-Major scandals can trigger sudden public
-concern, the issue-attention cycle predicts
-declining public concern after initial interest.
-But less is known about the duration and nature
-of attention, especially in the context of privacyrelated
-scandals.
-Online search behavior provides a real-time
-proxy for public interest and behavioral intent.
-The Cambridge Analytica scandal was a pivotal
-event that raised public awareness of data
-privacy causing different attitudes towards
-privacy rights.
-
-##Research Question :
-How did public privacy concern evolve after the
-Cambridge Analytica scandal?
->>>>>>> bc439ff0097fa2ab553eb6b3cc1471d47efe7a8b
-
 ## Project Phases
 
 **1. Data Collection & Preparation**
@@ -107,8 +84,6 @@ Per Deliverable, we define two deadlines: a **Check-In** for reporting on the pr
 6. **POSTER PRESENTATION**: 27.01.2026
 
 
-
-Whoever misses a deadline (Check-In or Deadline) thrice and without notice, will be reported to the Lecturers team.
 
 
 
