@@ -106,15 +106,5 @@ In a group project, it is mandatory to commit and push as much as possible.
 
 ![VSCode VCS](image.png)
 
-### How to push updates?
 
-- Before that: get the latest updates: `git pull`. 
-    - In the case of merge conflicts: Try to resolve it.
-    - If you are unsure: Talk to Janniella or Kevin
 
-# Privacy-attention-and-Behavioural-response-to-the-Cambridge-Analytica-Scandal
-# Privacy-attention-and-Behavioural-response-to-the-Cambridge-Analytica-Scandal
-# The-Privacy-attention-and-Behavioural-response-to-the-Cambridge-Analytica-Scandal
-=======
-# The-Privacy-attention-and-Behavioural-response-to-the-Cambridge-Analytica-Scandal
->>>>>>> afa4eb07cc4a4737db93922487d17f9d79db3bad
