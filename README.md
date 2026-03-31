@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FCSS Final Project - Group 3 (Analysis of the Privacy Paradox (2018–2024))
 
 Group members:
@@ -114,3 +115,6 @@ In a group project, it is mandatory to commit and push as much as possible.
 # Privacy-attention-and-Behavioural-response-to-the-Cambridge-Analytica-Scandal
 # Privacy-attention-and-Behavioural-response-to-the-Cambridge-Analytica-Scandal
 # The-Privacy-attention-and-Behavioural-response-to-the-Cambridge-Analytica-Scandal
+=======
+# The-Privacy-attention-and-Behavioural-response-to-the-Cambridge-Analytica-Scandal
+>>>>>>> afa4eb07cc4a4737db93922487d17f9d79db3bad
